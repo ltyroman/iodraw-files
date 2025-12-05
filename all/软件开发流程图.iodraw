@@ -22,7 +22,7 @@
         <mxCell id="waUcc5aZddeRV7sCJMkD-3" value="服务器：搭建web服务&lt;div&gt;(将服务器的某目录部署到web域名)&lt;/div&gt;&lt;div&gt;（一般使用Apache、Nginx等框架）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="waUcc5aZddeRV7sCJMkD-4" value="编写各个页面的前后端代码&lt;div&gt;前端框架：Vue、React&lt;/div&gt;&lt;div&gt;&lt;div&gt;后端框架：Node.js、SpringBoot&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="waUcc5aZddeRV7sCJMkD-4" value="编写各个页面的前后端代码&lt;div&gt;前端框架：Vue、React等&lt;/div&gt;&lt;div&gt;&lt;div&gt;后端框架：Node.js、SpringBoot等&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
